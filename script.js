@@ -6,13 +6,13 @@ let searchInput = document.querySelector(".search-input");
         name: "Mirza Jawad",
         title: "Mirza Jawad",
         img: "https://i.pinimg.com/736x/ca/cc/d7/caccd7ac23121bf1d2cb4b9e4fc0675f.jpg",
-        desc: "Mirza Jawad is a professional web developer with strong experience in HTML, CSS, and JavaScript."
+        desc: "Mirza Jawad is a professional web developer with strong experience in HTML, CSS, and JavaScript skills. He is professional experienced in how to roast the teachers and mischievous."
       },
       {
         name: "Mirza Khalil",
         title: "Mirza Khalil",
         img: "https://i.pinimg.com/1200x/47/80/33/4780337135f73945eb533d10007d8223.jpg",
-        desc: "Mirza Khalil is a professional web developer focused on clean and responsive UI."
+        desc: "Mirza Khalil is a professional web developer with strong HTML, CSS, JS, C++, and PYTHON skills. He is professional experienced in How to roast others and teachers."
       },
       {
         name: "Mirza Jahazaib",
@@ -24,37 +24,31 @@ let searchInput = document.querySelector(".search-input");
         name: "Mirza Abdurehamn",
         title: "Mirza Abdurehamn",
         img: "https://i.pinimg.com/1200x/17/7a/b7/177ab7e00f21a6f4bc4c18aebd13b23b.jpg",
-        desc: "Mirza Abdurehamn is a professional front-end web developer experienced in HTML and CSS."
+        desc: "Mirza Abdurehamn is a professional Badmash. He is professional experienced in cricket and how is making april fool others."
       },
       {
         name: "Ayesha Baig",
         title: "Ayesha Baig",
         img: "https://i.pinimg.com/736x/43/7b/ec/437becd0c12ff6387a20f5ab7c8f165b.jpg",
-        desc: "Aesha baig is a professional front-end web developer experienced in HTML and CSS."
-      },
-      {
-        name: "",
-        title: "Hania Amir",
-        img: "https://i.pinimg.com/736x/25/0e/eb/250eeb9a392bf24c8b614cdb520375cd.jpg",
-        desc: "Hania Amir is a professional front-end web developer experienced in HTML and CSS."
+        desc: "Aesha baig is a professional front-end web developer experienced in HTML and CSS and Bit of JS."
       },
       {
         name: "Abdullah Mughal",
         title: "Abdullah Mughal",
         img: "https://i.pinimg.com/736x/92/b5/cb/92b5cbfbcba1f65b302f095efaeec734.jpg",
-        desc: "Abdullah Mughal is a professional front-end web developer experienced in HTML and CSS."
+        desc: "Abdullah Mughal is a roast from other. He is professional experienced in all physiacl games and PUBG. He is a best player of PUBG."
       },
       {
         name: "Faizan Mughal",
         title: "Faizan Mughal",
         img: "https://i.pinimg.com/1200x/f2/70/a7/f270a78b23245899708892c501b4c191.jpg",
-        desc: "Faizan Mughal is a professional front-end web developer experienced in HTML and CSS."
+        desc: "Faizan Mughal is a professional chapri in thus world. he is lover of free-fire. He is professional experienced in One-Tap of free-fire game."
       },
       {
         name: "Mirza Fahad",
         title: "Mirza Fahad",
         img: "https://i.pinimg.com/736x/bd/ed/c5/bdedc577da0a0c5aa4e5192ed3cc8ca0.jpg",
-        desc: "Mirza Fahad is a professional front-end web developer experienced in HTML and CSS."
+        desc: "Mirza Fahad is a professional software engineer. He is professional experienced in instagram. He is very big heart."
       },
       {
         name: "Mirza Asad",
@@ -72,37 +66,37 @@ let searchInput = document.querySelector(".search-input");
         name: "Mirza Naqash",
         title: "Mirza Naqash",
         img: "https://i.pinimg.com/736x/4c/4e/1d/4c4e1d05c7d0297ddf43c05be3ad7da0.jpg",
-        desc: "Mirza Naqash is a professional front-end web developer experienced in HTML and CSS."
+        desc: "Mirza Naqash is a real life taken-3 player. he is a ver dangoures player. He is professional experienced in Math."
       },
       {
         name: "Rana Ali",
         title: "Rana Ali",
         img: "https://i.pinimg.com/736x/7d/58/be/7d58be2ff5881fad5b186d9ce8975937.jpg",
-        desc: "Rana Ali is a professional front-end web developer experienced in HTML and CSS."
+        desc: "Rana Ali is a real life taken-6 player. He is really most dangoures player. He is professioanl experienced in all World Subject(really)"
       },
       {
         name: "Rana Khawar",
         title: "Rana Khawar",
         img: "https://i.pinimg.com/736x/07/b7/6b/07b76bae46fdf5ce62ccdfeb271dbb26.jpg",
-        desc: "Rana Khawar is a professional front-end web developer experienced in HTML and CSS."
+        desc: "Rana Khawar is a professional chapri. he is experinced in all bad work of world. He is professional experienced in physics and a bit of Math"
       },
       {
         name: "Ayaz Raza",
         title: "Ayaz Raza",
         img: "https://i.pinimg.com/736x/7b/76/41/7b7641e41593cabd269e40bfc6d786f9.jpg",
-        desc: "Ayaz Raza is a professional front-end web developer experienced in HTML and CSS."
+        desc: "Ayaz Raza is a professional web developer experienced in HTML, CSS, JS, C++, Python. He is professional experienced in Computer science."
       },
       {
         name: "Rana Adnan",
         title: "Rana Adnan",
         img: "https://i.pinimg.com/736x/04/50/cf/0450cff7f1f3312b493c2492425b2bfc.jpg",
-        desc: "Rana Adnan is a professional front-end web developer experienced in HTML and CSS."
+        desc: "Rana Adnan is a professional in all science subject. he is professional experienced in BIOLOGY, CHEMISTRY, ZOLOGY, COMPURT SCIENCE"
       },
       {
         name: "Mirza Sanan",
         title: "Mirza Sanan",
         img: "https://i.pinimg.com/736x/d6/89/95/d689958708e628dfd6c033802a87a4c7.jpg",
-        desc: "Mirza sanan is a professional front-end web developer experienced in HTML and CSS."
+        desc: "Mirza sanan is a professional cheff. He cooked all things in this world. He is professional experienced in Baking a Fast food."
       },
       {
         name: "Amna Jatt",
@@ -202,3 +196,4 @@ let searchInput = document.querySelector(".search-input");
 
       createCards(filtered);
     });
+

@@ -9,8 +9,8 @@
 /* Body */
 body {
   min-height: 100vh;
-  background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
   display: flex;
+  background: black;
   justify-content: center;
   padding: 40px 16px;
   color: #fff;
@@ -27,6 +27,9 @@ h1 {
   text-align: center;
   margin-bottom: 25px;
   letter-spacing: 1px;
+  background: linear-gradient(135deg, red, blue);
+  color: transparent;
+  -webkit-background-clip: text;
 }
 
 /* Search Box */
@@ -68,6 +71,7 @@ h1 {
   border-radius: 18px;
   overflow: hidden;
   transition: 0.3s ease;
+
 }
 
 .card:hover {
@@ -78,7 +82,8 @@ h1 {
 /* Image Box */
 .img-box {
   position: relative;
-  height: 180px;
+  height: 400px;
+  
 }
 
 .img-box img {
